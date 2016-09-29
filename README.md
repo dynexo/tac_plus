@@ -35,7 +35,7 @@ or build an RPM
 -- tacacs+6 requires tacacs+ for libraries with default specfiles (easily changeable if you want IPV6 only)
 
 ### RPM Build
-- git clone git@github.com:facebook/tac_plus.git
+- git clone git@github.com:dynexo/tac_plus.git
 - cd tac_plus
 - mkdir -p ~/rpmbuild/SOURCES
 - tar cvzf ~/rpmbuild/SOURCES/tacacs+-FB4.0.4.19.1.tar.gz tacacs+-FB4.0.4.19.1
